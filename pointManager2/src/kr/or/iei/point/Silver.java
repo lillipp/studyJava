@@ -1,5 +1,11 @@
 package kr.or.iei.point;
 
-public class Silver {
+
+
+public class Silver  {
+	
+	
+	
+	
 
 }
